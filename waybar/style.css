@@ -2,12 +2,12 @@
   /* `otf-font-awesome` is required to be installed for icons */
   font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
   font-size: 13px;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 
 window#waybar {
-  background-color: rgba(43, 48, 59, 0.5);
-  border-bottom: 3px solid rgba(100, 114, 125, 0.5);
+  background-color: rgba(43, 48, 59, 0);
+  border-bottom: 3px solid rgba(100, 114, 125, 0);
   color: #ffffff;
   transition-property: background-color;
   transition-duration: 0.5s;
@@ -59,8 +59,7 @@ button:hover {
 }
 
 #workspaces button.active {
-  background-color: #64727d;
-  box-shadow: inset 0 -3px #ffffff;
+  background-color: #31404a;
 }
 
 #workspaces button.urgent {
@@ -101,4 +100,17 @@ button:hover {
 /* If workspaces is the rightmost module, omit right margin */
 .modules-right > widget:last-child > #workspaces {
   margin-right: 0;
+}
+
+.modules-left,
+#tray {
+  background-color: #64727d;
+  border-bottom: 3px solid #ffffff;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+#tray {
+  padding-left: 5px;
+  padding-right: 5px;
 }
