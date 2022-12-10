@@ -1,0 +1,4 @@
+#!/bin/sh
+
+swww init &
+swww img /home/birahe/.config/Wallpapers/Elipse.png &
