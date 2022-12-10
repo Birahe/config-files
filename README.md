@@ -12,3 +12,7 @@
 
 - Libreoffice
 - FirefoxPWA (For webapps)
+
+# Important Note!
+
+**You need to copy executables (wallpaper and hyprland*wrapped) to */usr/bin\* and login file (wrapped*hl.desktop) to */usr/share/wayland-sessions\_**
