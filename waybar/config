@@ -6,7 +6,7 @@
     "spacing": 4, // Gaps between modules (4px)
     "margin": "10",
     // Choose the order of the modules
-    "modules-left": ["wlr/workspaces", "custom/media"],
+    "modules-left": ["wlr/workspaces", "custom/previous", "custom/pause", "custom/next", "custom/media"], 
     "modules-center": ["tray"],
     "modules-right": ["pulseaudio", "network", "cpu", "memory", "temperature", "backlight", "battery", "battery#bat2", "clock"],
     // Modules configuration
@@ -160,16 +160,25 @@
         "on-click": "pavucontrol"
     },
     "custom/media": {
-        "format": "{icon} {}",
-        "escape": true,
-        "return-type": "json",
-        "max-length": 40,
-        "on-click": "playerctl play-pause",
-        "on-click-right": "playerctl stop",
-        "smooth-scrolling-threshold": 10, // This value was tested using a trackpad, it should be lowered if using a mouse.
-        "on-scroll-up": "playerctl next",
-        "on-scroll-down": "playerctl previous",
-        "exec": "$HOME/.config/waybar/mediaplayer.py 2> /dev/null", // Script in resources/custom_modules folder
+      "format": "{icon} {}",
+      "escape": true,
+      "return-type": "json",
+      "max-length": 40,
+      "exec": "$HOME/.config/waybar/mediaplayer.py 2> /dev/null",
+    },
+    "custom/pause": {
+      "format": "{}",
+      "exec": "$HOME/.config/waybar/play-pause.py 2> /dev/null",
+      "escape":true,
+      "return-type": "json",
+      "on-click": "playerctl play-pause"
+    },
+    "custom/next": {
+      "format": "",
+      "on-click": "playerctl next"
+    },
+    "custom/previous": {
+      "format": "",
+      "on-click": "playerctl previous"
     }
 }
-

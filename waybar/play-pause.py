@@ -16,7 +16,7 @@ def write_output(text, player):
 
     output = {'text': text,
               'class': 'custom-' + player.props.player_name,
-              'alt': player.props.player_name}
+              'alt': player.props.status}
 
     sys.stdout.write(json.dumps(output) + '\n')
     sys.stdout.flush()
@@ -36,11 +36,13 @@ def on_metadata(player, metadata, manager):
             ':ad:' in player.props.metadata['mpris:trackid']:
         track_info = 'AD PLAYING'
     elif player.get_artist() != '' and player.get_title() != '':
-        track_info = '{artist} - {title}'.format(artist=player.get_artist(),
-                                                 title=player.get_title())
+        track_info = ''
     else:
-        track_info = player.get_title() 
-    
+        track_info = ''
+
+    if player.props.status != 'Playing' and track_info:
+        track_info = ''
+        
     write_output(track_info, player)
 
 
@@ -49,7 +51,6 @@ def on_player_appeared(manager, player, selected_player=None):
         init_player(manager, player)
     else:
         logger.debug("New player appeared, but it's not the selected player, skipping")
-
 
 
 def on_player_vanished(manager, player):
@@ -124,6 +125,6 @@ def main():
 
 
 if __name__ == '__main__':
-    sys.stdout.write(json.dumps({'text': 'Nothing is playing right now!'}) + '\n')
+    sys.stdout.write(json.dumps({'text': ''}) + '\n')
     sys.stdout.flush()
     main()

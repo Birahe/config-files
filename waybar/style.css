@@ -48,6 +48,13 @@ button:hover {
   box-shadow: inset 0 -3px #ffffff;
 }
 
+#workspaces {
+  background-color: #64727d;
+  border-bottom: 3px solid #ffffff;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
 #workspaces button {
   padding: 0 5px;
   background-color: transparent;
@@ -82,6 +89,9 @@ button:hover {
 #pulseaudio,
 #wireplumber,
 #custom-media,
+#custom-pause,
+#custom-next,
+#custom-previous,
 #mode,
 #idle_inhibitor,
 #scratchpad,
@@ -102,7 +112,6 @@ button:hover {
   margin-right: 0;
 }
 
-.modules-left,
 #tray {
   background-color: #64727d;
   border-bottom: 3px solid #ffffff;
