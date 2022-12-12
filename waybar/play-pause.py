@@ -55,7 +55,7 @@ def on_player_appeared(manager, player, selected_player=None):
 
 def on_player_vanished(manager, player):
     logger.info('Player has vanished')
-    sys.stdout.write('\n')
+    sys.stdout.write(json.dumps({'text': ""}) + '\n')
     sys.stdout.flush()
 
 
