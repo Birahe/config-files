@@ -154,6 +154,11 @@ _G.packer_plugins = {
     path = "/home/birahe/.local/share/nvim/site/pack/packer/start/null-ls.nvim",
     url = "https://github.com/jose-elias-alvarez/null-ls.nvim"
   },
+  nvim = {
+    loaded = true,
+    path = "/home/birahe/.local/share/nvim/site/pack/packer/start/nvim",
+    url = "https://github.com/rose-pine/nvim"
+  },
   ["nvim-autopairs"] = {
     loaded = true,
     path = "/home/birahe/.local/share/nvim/site/pack/packer/start/nvim-autopairs",
@@ -226,11 +231,6 @@ _G.packer_plugins = {
     path = "/home/birahe/.local/share/nvim/site/pack/packer/start/vim-maximizer",
     url = "https://github.com/szw/vim-maximizer"
   },
-  ["vim-nightfly-guicolors"] = {
-    loaded = true,
-    path = "/home/birahe/.local/share/nvim/site/pack/packer/start/vim-nightfly-guicolors",
-    url = "https://github.com/bluz71/vim-nightfly-guicolors"
-  },
   ["vim-surround"] = {
     loaded = true,
     path = "/home/birahe/.local/share/nvim/site/pack/packer/start/vim-surround",
@@ -240,6 +240,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/birahe/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",
     url = "https://github.com/christoomey/vim-tmux-navigator"
+  },
+  vimwiki = {
+    loaded = true,
+    path = "/home/birahe/.local/share/nvim/site/pack/packer/start/vimwiki",
+    url = "https://github.com/vimwiki/vimwiki"
   }
 }
 
