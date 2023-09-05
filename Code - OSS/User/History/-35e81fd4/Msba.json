@@ -1,8 +1,0 @@
-{
-    "window.menuBarVisibility": "toggle",
-    "editor.fontSize": 18,
-    "editor.fontFamily": "'FiraCode Nerd Font', 'monospace', monospace",
-    "workbench.colorTheme": "Nord Deep",
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.fontLigatures": true 
-}

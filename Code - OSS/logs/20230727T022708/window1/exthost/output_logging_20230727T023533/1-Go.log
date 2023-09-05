@@ -1,7 +1,0 @@
-Tools environment: GOPATH=/home/birahe/go
-Installing 1 tool at /home/birahe/go/bin in module mode.
-  gopls
-
-Installing golang.org/x/tools/gopls@latest (/home/birahe/go/bin/gopls) SUCCEEDED
-
-All tools successfully installed. You are ready to Go. :)
