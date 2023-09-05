@@ -1,0 +1,16 @@
+[Info  - 2:36:03 AM] 2023/07/27 02:36:03 go info for /home/birahe/Projects/GoLang-Snippetbox
+(go dir /home/birahe/Projects/GoLang-Snippetbox)
+(go version go version go1.20.5 linux/amd64)
+(valid build configuration = true)
+(build flags: [])
+(selected go env: [GO111MODULE=, GOCACHE=/home/birahe/.cache/go-build, GOFLAGS=, GOMODCACHE=/home/birahe/go/pkg/mod, GOPATH=/home/birahe/go, GOPRIVATE=, GOROOT=/usr/lib/go, GOWORK=])
+
+
+[Info  - 2:36:04 AM] 2023/07/27 02:36:04 go/packages.Load #1
+	snapshot=0
+	directory=file:///home/birahe/Projects/GoLang-Snippetbox
+	query=[/home/birahe/Projects/GoLang-Snippetbox/... builtin]
+	packages=2
+
+[Info  - 2:36:04 AM] 2023/07/27 02:36:04 go/packages.Load #1: updating metadata for 135 packages
+

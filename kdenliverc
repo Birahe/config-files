@@ -1,0 +1,122 @@
+[KFileDialog Settings]
+Recent Files[$e]=movie_001.mp4,file:$HOME/Downloads/AbyssLogo.png,file:$HOME/Downloads/Abyss_Games_Logo.jpg,file:$HOME/Downloads/movie_001.mp4
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/
+detailViewIconSize=16
+
+[MainWindow]
+1920x1080 screen: Height=1080
+1920x1080 screen: Width=1920
+1920x1080 screen: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAgAAAAEAAAGFAAABYfwCAAAAAfwAAAJZAAABYQAAAUsBAAAe+gAAAAECAAAABPsAAAAKAG0AaQB4AGUAcgEAAAHwAAACCwAAALwA///++wAAABgAZQBmAGYAZQBjAHQAXwBzAHQAYQBjAGsBAAAAAP////8AAACXAP///vsAAAASAHQAaQBtAGUAcgBlAG0AYQBwAQAAAAD/////AAAAawD///77AAAAEgBTAHUAYgB0AGkAdABsAGUAcwEAAAAA/////wAAASsA///+AAAAAgAAB1QAAAIu/AEAAAAM+wAAABQAcwBjAHIAZQBlAG4AZwByAGEAYgAAAAAA/////wAAAE0A////+wAAABoAYQB1AGQAaQBvAHMAcABlAGMAdAByAHUAbQAAAAAA/////wAAAGYA/////AAAAAAAAAFkAAAAewD////6AAAAAgEAAAAF+wAAABYAcAByAG8AagBlAGMAdABfAGIAaQBuAQAAAAD/////AAAAbAD////7AAAAHgB0AHIAYQBuAHMAaQB0AGkAbwBuAF8AbABpAHMAdAEAAAAA/////wAAAAAA////+wAAABYAZQBmAGYAZQBjAHQAXwBsAGkAcwB0AQAAAAD/////AAAAAAD////7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwEAAAAA/////wAAAGQA////+wAAABgAdQBuAGQAbwBfAGgAaQBzAHQAbwByAHkBAAAAAP////8AAABsAP////wAAAFoAAAClgAAAUAA////+gAAAAACAAAAAvsAAAAYAGMAbABpAHAAXwBtAG8AbgBpAHQAbwByAQAAAEQAAAHNAAAAxwD///77AAAADgBsAGkAYgByAGEAcgB5AQAAAAD/////AAAApwD///78AAAEAgAAA1IAAAFvAP////oAAAAAAgAAAAP7AAAAHgBwAHIAbwBqAGUAYwB0AF8AbQBvAG4AaQB0AG8AcgEAAAC/AAABLAAAAMcA///++wAAABAAdABlAHgAdABlAGQAaQB0AQAAAAD/////AAABYQD///77AAAAGABuAG8AdABlAHMAXwB3AGkAZABnAGUAdAEAAAAA/////wAAAKEA///++wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABHwD////7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAACgAP////sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAACZAP////sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABMwD////7AAAAEABiAGkAbgBfAGMAbABpAHAAAAAE/wAAAoEAAAI2AP////sAAAAeAG8AbgBsAGkAbgBlAHIAZQBzAG8AdQByAGMAZQBzAAAAAAD/////AAABNgD////7AAAADABnAHUAaQBkAGUAcwAAAAAA/////wAAANgA////AAAFywAAAWEAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAYAGUAeAB0AHIAYQBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[OnlineResources]
+provider=Freesound
+zoom=7
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/Downloads/,$HOME/Videos,$HOME/Documents
+KdenliveProjectsFolder[$e]=$HOME/Videos,$HOME/Documents
+
+[Recent Files]
+File1[$e]=$HOME/Videos/bacteria.kdenlive
+Name1[$e]=bacteria.kdenlive
+
+[RenderWidget]
+showoptions=true
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+logScale=false
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[UiSettings]
+ColorSchemePath=BreezeDark.colors
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAJ/gEAAAAIAAAACAAAAGQAAAAHAAAAMAAAAAYAAAAiAAAABQAAAEkAAAAEAAAALAAAAAMAAAAzAAAAAgAAAFkAAAABAAAAMQAAAKgAAAAJAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAJAAAAqAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA4
+
+[capture]
+decklink_capturedevice=4294967295
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+defaultaudiocapture=0
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultimageapp=/usr/bin/gimp
+defaultprojectfolder[$e]=$HOME/Videos
+ffmpegpath[$e]=/usr/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+lastCacheCheck=2023,8,2,5,41,48.425
+mltpath[$e]=/usr/share/mlt-7/profiles
+rendererpath[$e]=/usr/bin/melt-7
+
+[project]
+externalProxyProfile=./;;.LRV;./;;.MP4
+
+[sdl]
+blackmagic_output_device=-1
+preferredcomposite=auto
+
+[settings]
+dialogSize=1024,708
+
+[shuttle]
+shuttlebuttons=button0=monitor_pause
+
+[speech]
+whisperDevice=
+
+[timeline]
+trackheight=69
+
+[unmanaged]
+consumerslist=jack,cbrts,multi,null,blipflash,avformat,qglsl,xml,sdl2,sdl2_audio,decklink
+default_profile=atsc_1080p_25
+defaultrescaleheight=3000
+defaultrescalewidth=1300
+force_breeze=true
+guidesCategories=Category 1:0:#9b59b6,Category 2:1:#3daee9,Category 3:2:#1abc9c,Category 4:3:#1cdc9a,Category 5:4:#c9ce3b,Category 6:5:#fdbc4b,Category 7:6:#f39c1f,Category 8:7:#f47750,Category 9:8:#da4453
+monitor_audio=false
+producerslist=ladspa.1416,ladspa.1885,ladspa.1881,vorbis,framebuffer,glaxnimate,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,abnormal,color,colour,consumer,hold,loader,loader-nogl,melt,melt_file,noise,timewarp,tone,blipflash,count,pgm,avformat,avformat-novalidate,qimage,qtext,kdenlivetitle,pango,pixbuf,xml,xml-string,xml-nogl,decklink
+properties_panel_page=4
+use_dark_breeze=true
+widgetstyle=Default
+
+[version]
+version=23.04.2

@@ -1,0 +1,11 @@
+2023/07/07-23:13:39.121 c9e1 Creating DB /home/birahe/.config/Netflix/Local Storage/leveldb since it was missing.
+2023/07/07-23:13:39.124 c9e1 Reusing MANIFEST /home/birahe/.config/Netflix/Local Storage/leveldb/MANIFEST-000001
+2023/07/08-15:14:45.945 c9e3 Level-0 table #5: started
+2023/07/08-15:14:45.948 c9e3 Level-0 table #5: 22120 bytes OK
+2023/07/08-15:14:45.950 c9e3 Delete type=0 #3
+2023/07/08-15:39:39.945 c9e3 Level-0 table #7: started
+2023/07/08-15:39:39.949 c9e3 Level-0 table #7: 12073 bytes OK
+2023/07/08-15:39:39.950 c9e3 Delete type=0 #4
+2023/07/08-16:37:29.279 c9e3 Level-0 table #9: started
+2023/07/08-16:37:29.281 c9e3 Level-0 table #9: 12995 bytes OK
+2023/07/08-16:37:29.282 c9e3 Delete type=0 #6

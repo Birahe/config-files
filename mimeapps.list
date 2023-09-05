@@ -1,0 +1,9 @@
+[Default Applications]
+inode/directory=xranger.desktop
+x-scheme-handler/notion=notion-app.desktop
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+image/jpeg=sxiv.desktop
+x-scheme-handler/postman=Postman.desktop
+
+[Added Associations]
+image/jpeg=sxiv.desktop;

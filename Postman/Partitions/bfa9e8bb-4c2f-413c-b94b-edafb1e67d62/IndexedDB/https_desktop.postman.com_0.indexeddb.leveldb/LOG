@@ -1,0 +1,20 @@
+2023/07/27-14:49:41.869 13b57 Creating DB /home/birahe/.config/Postman/Partitions/bfa9e8bb-4c2f-413c-b94b-edafb1e67d62/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb since it was missing.
+2023/07/27-14:49:41.874 13b57 Reusing MANIFEST /home/birahe/.config/Postman/Partitions/bfa9e8bb-4c2f-413c-b94b-edafb1e67d62/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/27-14:49:41.891 13b83 Level-0 table #5: started
+2023/07/27-14:49:41.892 13b83 Level-0 table #5: 2186 bytes OK
+2023/07/27-14:49:41.894 13b83 Delete type=0 #3
+2023/07/27-14:49:41.894 13b83 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/07/27-14:49:42.612 13b83 Level-0 table #7: started
+2023/07/27-14:49:42.613 13b83 Level-0 table #7: 2045 bytes OK
+2023/07/27-14:49:42.615 13b83 Delete type=0 #4
+2023/07/27-14:49:42.615 13b83 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/07/27-14:49:42.619 13b5a Level-0 table #9: started
+2023/07/27-14:49:42.620 13b5a Level-0 table #9: 507 bytes OK
+2023/07/27-14:49:42.622 13b5a Delete type=0 #6
+2023/07/27-14:49:42.622 13b5a Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 285 : 1
+2023/07/27-14:49:42.622 13b5a Compacting 1@0 + 1@1 files
+2023/07/27-14:49:42.624 13b5a Generated table #10@0: 111 keys, 1642 bytes
+2023/07/27-14:49:42.624 13b5a Compacted 1@0 + 1@1 files => 1642 bytes
+2023/07/27-14:49:42.625 13b5a compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/27-14:49:42.625 13b5a Delete type=2 #9
+2023/07/27-14:49:42.625 13b5a Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 285 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

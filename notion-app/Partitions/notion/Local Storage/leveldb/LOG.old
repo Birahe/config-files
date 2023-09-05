@@ -1,0 +1,63 @@
+2023/05/28-14:19:53.365 1ce69 Reusing MANIFEST /home/birahe/.config/notion-app/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2023/05/28-14:19:53.365 1ce69 Recovering log #730
+2023/05/28-14:19:53.366 1ce69 Reusing old log /home/birahe/.config/notion-app/Partitions/notion/Local Storage/leveldb/000730.log 
+2023/05/28-14:20:10.826 1ce6b Level-0 table #734: started
+2023/05/28-14:20:10.835 1ce6b Level-0 table #734: 487352 bytes OK
+2023/05/28-14:20:10.837 1ce6b Delete type=0 #730
+2023/05/28-19:32:21.808 1cec9 Level-0 table #736: started
+2023/05/28-19:32:21.811 1cec9 Level-0 table #736: 17074 bytes OK
+2023/05/28-19:32:21.812 1cec9 Delete type=0 #733
+2023/05/28-19:44:32.532 21487 Level-0 table #738: started
+2023/05/28-19:44:32.536 21487 Level-0 table #738: 15853 bytes OK
+2023/05/28-19:44:32.538 21487 Delete type=0 #735
+2023/05/28-19:44:32.538 1cec9 Compacting 4@0 + 1@1 files
+2023/05/28-19:44:32.551 1cec9 Generated table #739@0: 344 keys, 513023 bytes
+2023/05/28-19:44:32.551 1cec9 Compacted 4@0 + 1@1 files => 513023 bytes
+2023/05/28-19:44:32.553 1cec9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/28-19:44:32.553 1cec9 Delete type=2 #734
+2023/05/28-19:44:32.553 1cec9 Delete type=2 #731
+2023/05/28-19:44:32.553 1cec9 Delete type=2 #729
+2023/05/28-19:44:32.553 1cec9 Delete type=2 #738
+2023/05/28-19:44:32.553 1cec9 Delete type=2 #736
+2023/05/28-20:12:22.840 2d29a Level-0 table #741: started
+2023/05/28-20:12:22.844 2d29a Level-0 table #741: 16043 bytes OK
+2023/05/28-20:12:22.845 2d29a Delete type=0 #737
+2023/05/28-20:32:22.830 2d29b Level-0 table #743: started
+2023/05/28-20:32:22.836 2d29b Level-0 table #743: 15853 bytes OK
+2023/05/28-20:32:22.838 2d29b Delete type=0 #740
+2023/05/28-21:17:25.022 2d29a Level-0 table #745: started
+2023/05/28-21:17:25.026 2d29a Level-0 table #745: 15853 bytes OK
+2023/05/28-21:17:25.028 2d29a Delete type=0 #742
+2023/05/28-22:46:14.379 2d29a Level-0 table #747: started
+2023/05/28-22:46:14.383 2d29a Level-0 table #747: 15853 bytes OK
+2023/05/28-22:46:14.385 2d29a Delete type=0 #744
+2023/05/28-22:46:14.386 2d29b Compacting 4@0 + 1@1 files
+2023/05/28-22:46:14.396 2d29b Generated table #748@0: 344 keys, 513012 bytes
+2023/05/28-22:46:14.396 2d29b Compacted 4@0 + 1@1 files => 513012 bytes
+2023/05/28-22:46:14.398 2d29b compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/28-22:46:14.398 2d29b Delete type=2 #741
+2023/05/28-22:46:14.398 2d29b Delete type=2 #743
+2023/05/28-22:46:14.398 2d29b Delete type=2 #747
+2023/05/28-22:46:14.398 2d29b Delete type=2 #745
+2023/05/28-22:46:14.398 2d29b Delete type=2 #739
+2023/05/28-23:01:04.241 2d29b Level-0 table #750: started
+2023/05/28-23:01:04.245 2d29b Level-0 table #750: 15853 bytes OK
+2023/05/28-23:01:04.247 2d29b Delete type=0 #746
+2023/05/28-23:20:11.030 2d29a Level-0 table #752: started
+2023/05/28-23:20:11.033 2d29a Level-0 table #752: 16054 bytes OK
+2023/05/28-23:20:11.035 2d29a Delete type=0 #749
+2023/05/28-23:47:09.913 2d29b Level-0 table #754: started
+2023/05/28-23:47:09.914 2d29b Level-0 table #754: 16234 bytes OK
+2023/05/28-23:47:09.916 2d29b Delete type=0 #751
+2023/05/29-00:03:55.869 2d29b Level-0 table #756: started
+2023/05/29-00:03:55.873 2d29b Level-0 table #756: 16010 bytes OK
+2023/05/29-00:03:55.875 2d29b Delete type=0 #753
+2023/05/29-00:03:55.875 2d29a Compacting 4@0 + 1@1 files
+2023/05/29-00:03:55.882 2d29a Generated table #757@0: 344 keys, 513020 bytes
+2023/05/29-00:03:55.883 2d29a Compacted 4@0 + 1@1 files => 513020 bytes
+2023/05/29-00:03:55.884 2d29a compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/29-00:03:55.885 2d29a Delete type=2 #748
+2023/05/29-00:03:55.885 2d29a Delete type=2 #750
+2023/05/29-00:03:55.885 2d29a Delete type=2 #752
+2023/05/29-00:03:55.885 2d29a Delete type=2 #754
+2023/05/29-00:03:55.885 2d29a Delete type=2 #756

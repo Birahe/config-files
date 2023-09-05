@@ -1,0 +1,10 @@
+2023-07-25 04:35:59.167 [info] Started initializing default profile extensions in extensions installation folder. file:///home/birahe/.vscode-oss/extensions
+2023-07-25 04:35:59.321 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/birahe/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/birahe/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-07-25 04:35:59.321 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/birahe/.vscode-oss/extensions
+2023-07-25 04:37:01.158 [info] Getting Manifest... s-nlf-fh.glassit
+2023-07-25 04:37:01.690 [info] Installing extension: s-nlf-fh.glassit
+2023-07-25 04:37:02.779 [info] Extension signature verification is not done: s-nlf-fh.glassit
+2023-07-25 04:37:02.881 [info] Extracted extension to /home/birahe/.vscode-oss/extensions/.50819fff-c166-4ed2-8e07-b96ef784ca19: s-nlf-fh.glassit
+2023-07-25 04:37:02.884 [info] Renamed to /home/birahe/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal
+2023-07-25 04:37:02.885 [info] Extracting extension completed. s-nlf-fh.glassit
+2023-07-25 04:37:02.895 [info] Extension installed successfully: s-nlf-fh.glassit

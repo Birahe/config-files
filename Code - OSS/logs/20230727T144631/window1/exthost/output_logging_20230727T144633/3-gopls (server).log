@@ -1,0 +1,36 @@
+[Info  - 2:46:34 PM] 2023/07/27 14:46:34 go info for /home/birahe/Projects/GoLang-Snippetbox
+(go dir /home/birahe/Projects/GoLang-Snippetbox)
+(go version go version go1.20.5 linux/amd64)
+(valid build configuration = true)
+(build flags: [])
+(selected go env: [GO111MODULE=, GOCACHE=/home/birahe/.cache/go-build, GOFLAGS=, GOMODCACHE=/home/birahe/go/pkg/mod, GOPATH=/home/birahe/go, GOPRIVATE=, GOROOT=/usr/lib/go, GOWORK=])
+
+
+[Info  - 2:46:34 PM] 2023/07/27 14:46:34 go/packages.Load #1
+	snapshot=0
+	directory=file:///home/birahe/Projects/GoLang-Snippetbox
+	query=[/home/birahe/Projects/GoLang-Snippetbox/... builtin]
+	packages=2
+
+[Info  - 2:46:34 PM] 2023/07/27 14:46:34 go/packages.Load #1: updating metadata for 135 packages
+
+[Info  - 2:50:59 PM] 2023/07/27 14:50:59 background imports cache refresh starting
+
+[Info  - 2:50:59 PM] 2023/07/27 14:50:59 background refresh finished after 38.859308ms
+
+[Info  - 2:51:40 PM] 2023/07/27 14:51:40 background imports cache refresh starting
+
+[Info  - 2:51:40 PM] 2023/07/27 14:51:40 background refresh finished after 7.691928ms
+
+[Info  - 2:52:41 PM] 2023/07/27 14:52:41 background imports cache refresh starting
+
+[Info  - 2:52:41 PM] 2023/07/27 14:52:41 background refresh finished after 8.381313ms
+
+[Info  - 2:53:42 PM] 2023/07/27 14:53:42 background imports cache refresh starting
+
+[Info  - 2:53:42 PM] 2023/07/27 14:53:42 background refresh finished after 7.894661ms
+
+[Info  - 2:56:27 PM] 2023/07/27 14:56:27 background imports cache refresh starting
+
+[Info  - 2:56:27 PM] 2023/07/27 14:56:27 background refresh finished after 8.417343ms
+

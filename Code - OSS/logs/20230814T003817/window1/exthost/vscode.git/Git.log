@@ -1,0 +1,19 @@
+2023-08-14 00:38:21.189 [info] Log level: Info
+2023-08-14 00:38:21.189 [info] Validating found git in: "git"
+2023-08-14 00:38:21.189 [info] Using git "2.41.0" from "git"
+2023-08-14 00:38:21.189 [info] > git rev-parse --show-toplevel [12ms]
+2023-08-14 00:38:21.202 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-08-14 00:38:21.214 [info] Open repository: /home/birahe/Projects/GoLang-Snippetbox
+2023-08-14 00:38:21.234 [info] > git rev-parse --show-toplevel [13ms]
+2023-08-14 00:38:21.257 [info] > git rev-parse --show-toplevel [15ms]
+2023-08-14 00:38:21.266 [info] > git config --get commit.template [33ms]
+2023-08-14 00:38:21.270 [info] > git rev-parse --show-toplevel [5ms]
+2023-08-14 00:38:21.418 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [47ms]
+2023-08-14 00:38:21.451 [info] > git status -z -uall [24ms]
+2023-08-14 00:38:21.494 [info] > git config --get commit.template [12ms]
+2023-08-14 00:38:21.505 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-08-14 00:38:21.523 [info] > git status -z -uall [1ms]
+2023-08-14 00:38:21.685 [info] > git show --textconv :cmd/web/helpers.go [8ms]
+2023-08-14 00:38:21.686 [info] > git ls-files --stage -- /home/birahe/Projects/GoLang-Snippetbox/cmd/web/helpers.go [2ms]
+2023-08-14 00:38:21.693 [info] > git cat-file -s 074926940c5da66138386b94210506312647a909 [1ms]
+2023-08-14 00:38:21.735 [info] > git check-ignore -v -z --stdin [1ms]

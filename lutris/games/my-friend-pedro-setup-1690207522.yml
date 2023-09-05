@@ -1,0 +1,29 @@
+game:
+  exe: /home/birahe/Games/my-friend-pedro/drive_c/GOG Games/My Friend Pedro/Launch
+    My Friend Pedro.lnk
+  prefix: /home/birahe/Games/my-friend-pedro
+game_slug: my-friend-pedro
+name: My Friend Pedro
+requires: null
+script:
+  files:
+  - setupfile: N/A:Select the setup file
+  game:
+    exe: _xXx_AUTO_WIN32_xXx_
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      env: {}
+      executable: /home/birahe/Downloads/My_Friend_Pedro-Razor1911/setup_my_friend_pedro_1.01_(64bit)_(30234).exe
+      prefix: /home/birahe/Games/my-friend-pedro
+      wine_path: /home/birahe/.local/share/lutris/runners/wine/lutris-GE-Proton8-10-x86_64/bin/wine
+  wine:
+    version: lutris-GE-Proton8-10-x86_64
+slug: my-friend-pedro-setup
+system: {}
+variables: {}
+version: Setup file
+wine:
+  version: lutris-GE-Proton8-10-x86_64
+year: null

@@ -1,0 +1,17 @@
+2023-07-27 02:25:33.950 [info] Uninstalling extension from the profile: s-nlf-fh.glassit@0.2.3 vscode-userdata:/home/birahe/.vscode-oss/extensions/extensions.json
+2023-07-27 02:25:33.980 [info] Marked extension as uninstalled s-nlf-fh.glassit-0.2.3-universal
+2023-07-27 02:25:34.726 [info] Successfully uninstalled extension from the profile s-nlf-fh.glassit@0.2.3 vscode-userdata:/home/birahe/.vscode-oss/extensions/extensions.json
+2023-07-27 02:26:03.176 [info] Getting Manifest... esbenp.prettier-vscode
+2023-07-27 02:26:03.735 [info] Installing extension: esbenp.prettier-vscode
+2023-07-27 02:26:07.827 [info] Extension signature verification is not done: esbenp.prettier-vscode
+2023-07-27 02:26:08.014 [info] Extracted extension to /home/birahe/.vscode-oss/extensions/.39cb2201-51b0-4df9-aacd-a1d9ae084908: esbenp.prettier-vscode
+2023-07-27 02:26:08.019 [info] Renamed to /home/birahe/.vscode-oss/extensions/esbenp.prettier-vscode-9.19.0-universal
+2023-07-27 02:26:08.021 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-07-27 02:26:08.030 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-07-27 02:26:08.911 [info] Getting Manifest... golang.go
+2023-07-27 02:26:09.131 [info] Installing extension: golang.go
+2023-07-27 02:26:11.136 [info] Extension signature verification is not done: golang.go
+2023-07-27 02:26:11.212 [info] Extracted extension to /home/birahe/.vscode-oss/extensions/.e5c1ae3c-0fcb-43cc-bd79-22c2d9f58fd4: golang.go
+2023-07-27 02:26:11.219 [info] Renamed to /home/birahe/.vscode-oss/extensions/golang.go-0.39.0-universal
+2023-07-27 02:26:11.222 [info] Extracting extension completed. golang.go
+2023-07-27 02:26:11.234 [info] Extension installed successfully: golang.go

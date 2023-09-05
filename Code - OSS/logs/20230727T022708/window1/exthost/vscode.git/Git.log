@@ -1,0 +1,44 @@
+2023-07-27 02:27:10.254 [info] Log level: Info
+2023-07-27 02:27:10.254 [info] Validating found git in: "git"
+2023-07-27 02:27:10.254 [info] Using git "2.41.0" from "git"
+2023-07-27 02:33:41.539 [info] Log level: Info
+2023-07-27 02:33:41.539 [info] Validating found git in: "git"
+2023-07-27 02:33:41.539 [info] Using git "2.41.0" from "git"
+2023-07-27 02:34:26.142 [info] Log level: Info
+2023-07-27 02:34:26.142 [info] Validating found git in: "git"
+2023-07-27 02:34:26.142 [info] Using git "2.41.0" from "git"
+2023-07-27 02:35:36.056 [info] Log level: Info
+2023-07-27 02:35:36.056 [info] Validating found git in: "git"
+2023-07-27 02:35:36.064 [info] Using git "2.41.0" from "git"
+2023-07-27 02:35:36.078 [info] > git rev-parse --show-toplevel [3ms]
+2023-07-27 02:35:36.093 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-07-27 02:35:36.102 [info] Open repository: /home/birahe/Projects/GoLang-Snippetbox
+2023-07-27 02:35:36.117 [info] > git rev-parse --show-toplevel [8ms]
+2023-07-27 02:35:36.127 [info] > git rev-parse --show-toplevel [3ms]
+2023-07-27 02:35:36.128 [info] > git config --get commit.template [10ms]
+2023-07-27 02:35:36.138 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-07-27 02:35:36.146 [info] > git status -z -uall [2ms]
+2023-07-27 02:35:36.161 [info] > git config --get commit.template [1ms]
+2023-07-27 02:35:36.169 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-07-27 02:35:36.177 [info] > git status -z -uall [2ms]
+2023-07-27 02:35:36.639 [info] > git check-ignore -v -z --stdin [2ms]
+2023-07-27 02:36:46.983 [info] > git check-ignore -v -z --stdin [1ms]
+2023-07-27 02:37:03.861 [info] Log level: Info
+2023-07-27 02:37:03.861 [info] Validating found git in: "git"
+2023-07-27 02:37:03.861 [info] Using git "2.41.0" from "git"
+2023-07-27 02:37:03.861 [info] > git rev-parse --show-toplevel [7ms]
+2023-07-27 02:37:03.861 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2023-07-27 02:37:03.861 [info] Open repository: /home/birahe/Projects/GoLang-Snippetbox
+2023-07-27 02:37:03.861 [info] > git rev-parse --show-toplevel [7ms]
+2023-07-27 02:37:03.861 [info] > git rev-parse --show-toplevel [52ms]
+2023-07-27 02:37:03.861 [info] > git config --get commit.template [60ms]
+2023-07-27 02:37:03.915 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [54ms]
+2023-07-27 02:37:03.928 [info] > git status -z -uall [5ms]
+2023-07-27 02:37:03.952 [info] > git config --get commit.template [8ms]
+2023-07-27 02:37:03.958 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-07-27 02:37:03.964 [info] > git status -z -uall [1ms]
+2023-07-27 02:37:14.528 [info] > git check-ignore -v -z --stdin [2ms]
+2023-07-27 02:37:15.673 [info] > git check-ignore -v -z --stdin [1ms]
+2023-07-27 02:37:16.539 [info] > git show --textconv :cmd/web/main.go [13ms]
+2023-07-27 02:37:16.547 [info] > git ls-files --stage -- /home/birahe/Projects/GoLang-Snippetbox/cmd/web/main.go [9ms]
+2023-07-27 02:37:16.556 [info] > git cat-file -s df5ee5f997a5fe07e7226b9b2e7e62e789d6050c [1ms]

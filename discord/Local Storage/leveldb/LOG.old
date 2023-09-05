@@ -1,0 +1,21 @@
+2023/09/04-16:53:41.027 1b56c Reusing MANIFEST /home/birahe/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/09/04-16:53:41.028 1b56c Recovering log #94
+2023/09/04-16:53:41.030 1b56c Reusing old log /home/birahe/.config/discord/Local Storage/leveldb/000094.log 
+2023/09/04-16:55:42.041 1b51c Level-0 table #98: started
+2023/09/04-16:55:42.058 1b51c Level-0 table #98: 1904250 bytes OK
+2023/09/04-16:55:42.060 1b51c Delete type=0 #94
+2023/09/04-16:55:42.060 1b51c Compacting 4@0 + 1@1 files
+2023/09/04-16:55:42.075 1b51c Generated table #99@0: 97 keys, 3488055 bytes
+2023/09/04-16:55:42.075 1b51c Compacted 4@0 + 1@1 files => 3488055 bytes
+2023/09/04-16:55:42.077 1b51c compacted to: files[ 0 2 0 0 0 0 0 ]
+2023/09/04-16:55:42.077 1b51c Delete type=2 #87
+2023/09/04-16:55:42.077 1b51c Delete type=2 #90
+2023/09/04-16:55:42.077 1b51c Delete type=2 #98
+2023/09/04-16:55:42.077 1b51c Delete type=2 #92
+2023/09/04-16:55:42.077 1b51c Delete type=2 #95
+2023/09/04-17:54:05.718 1b51c Level-0 table #101: started
+2023/09/04-17:54:05.721 1b51c Level-0 table #101: 40356 bytes OK
+2023/09/04-17:54:05.723 1b51c Delete type=0 #97
+2023/09/04-18:06:05.719 1b51c Level-0 table #103: started
+2023/09/04-18:06:05.721 1b51c Level-0 table #103: 28871 bytes OK
+2023/09/04-18:06:05.723 1b51c Delete type=0 #100
